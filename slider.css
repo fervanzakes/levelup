@@ -28,19 +28,19 @@ h2{
  
 	/*pengaturan durasi lama tampil gambar bisa di atur di bawah ini*/
 	animation-name:slider;
-	animation-duration:16s;
+	animation-duration:5s;
 	animation-timing-function: ease-in-out;
 	animation-iteration-count:infinite;
 	-webkit-animation-name:slider;
-	-webkit-animation-duration:16s;
+	-webkit-animation-duration:5s;
 	-webkit-animation-timing-function: ease-in-out;
 	-webkit-animation-iteration-count:infinite;
 	-moz-animation-name:slider;
-	-moz-animation-duration:16s;
+	-moz-animation-duration:5s;
 	-moz-animation-timing-function: ease-in-out;
 	-moz-animation-iteration-count:infinite;
 	-o-animation-name:slider;
-	-o-animation-duration:16s;
+	-o-animation-duration:5s;
 	-o-animation-timing-function: ease-in-out;
 	-o-animation-iteration-count:infinite;
 }
@@ -255,13 +255,13 @@ body {
   text-align: center;
 }
 
-h4 {
+h3 {
   font-weight: normal;
 }
 
 li {
   display: inline-block;
-  font-size: 1.5em;
+  font-size: 0.67em;
   list-style-type: none;
   padding: 1em;
   text-transform: uppercase;
@@ -269,5 +269,5 @@ li {
 
 li span {
   display: block;
-  font-size: 4.5rem;
+  font-size: 0.83rem;
 }
