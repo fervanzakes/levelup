@@ -16,15 +16,6 @@ li span {
   font-size: 0.83rem;
 }
 
-body{
-  display: flex;
-  align-items: center;
-  position: relative;
-  overflow: hidden;
-  background-color: #111;
-  user-select: none;
-}
-
 img{
   display: block;
   width: 100%;
